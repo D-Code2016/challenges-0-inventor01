@@ -20,6 +20,7 @@ OMG! Something happened and the cardwall's gotten messed up. Help the project ma
 
 **Prerequisites:** You will need to copy this board https://trello.com/b/ayq2GpFk to complete the challenge. 
 To do that: 
+
 1. Click the link
 2. Click "Show Menu" in the right hand side of the screen
 3. Click "More"
