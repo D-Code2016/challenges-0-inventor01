@@ -36,6 +36,7 @@ To do that:
 
 **Challenge Submission**
 When you've completed the challenge submit your solution by:
+
 1. Click "Show Menu" in the right hand side of the screen
 2. Click "More"
 3. Copy the link provided in the "Link to this board"
