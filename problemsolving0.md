@@ -10,6 +10,7 @@ Write the step by step instructions for organizing the "colored legos" so that a
 [B] [Y] [B] [Y] [Y] [B]
 
 **ENTER YOUR SOLUTION HERE***
+you would code it to append item
 
 
 **Solution End**
